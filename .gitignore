@@ -2,3 +2,11 @@ jsonxx_test
 *.o
 *~
 jsonxx_test.dSYM/
+
+# KDevelop metatdata
+.kdev4/
+*.kdev4
+
+# build and install directories
+*install*/
+*build*/
